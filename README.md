@@ -1,5 +1,5 @@
 # Window_Manager
-#### dotfiles
+##### dotfiles
 
 ## Fonts
 #### jetbrainsmono nerd font
