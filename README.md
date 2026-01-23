@@ -1,10 +1,10 @@
 # Window_Manager
-dotfiles
+### dotfiles
 
 ## Fonts
-jetbrainsmono nerd font
-liberation font
-fontawesome font
+### jetbrainsmono nerd font
+### liberation font
+### fontawesome font
 
 ## Prompt
 starship
