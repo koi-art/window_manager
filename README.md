@@ -1,7 +1,7 @@
 ## Dotfiles
 
 ### Fonts
-##### jetbrainsmono nerd font
+##### jetbrains nerd font
 ##### liberation font
 ##### fontawesome font
 
