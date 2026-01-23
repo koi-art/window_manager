@@ -1,5 +1,4 @@
-# Window_Manager
-##### dotfiles
+## Dotfiles
 
 ## Fonts
 ##### jetbrainsmono nerd font
@@ -34,5 +33,5 @@
 ##### blueman-applet
 ##### picom
 
-## Brightness Display Application
+## Display Brightness
 ##### brightnessctl
