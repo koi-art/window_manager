@@ -1,14 +1,14 @@
 ## Dotfiles
 
-## Fonts
+### Fonts
 ##### jetbrainsmono nerd font
 ##### liberation font
 ##### fontawesome font
 
-## Prompt
+### Prompt
 ##### starship
 
-## Application
+### Application
 ##### geany
 ##### nwg-look
 ##### thunar
@@ -25,7 +25,7 @@
 ##### elementary-xfce-icons-git
 ##### pikaur
 
-## Startup Application
+### Startup Application
 ##### gnome-polkit
 ##### dunst
 ##### xfce4-power-manager
@@ -33,5 +33,5 @@
 ##### blueman-applet
 ##### picom
 
-## Display Brightness
+### Display Brightness
 ##### brightnessctl
