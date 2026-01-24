@@ -56,6 +56,9 @@ bindsym $mod+Shift+q kill
 
 # start dmenu (a program launcher)
 bindsym $mod+d exec --no-startup-id dmenu_run -i -p "  " -fn "JetBrainsMono Nerd Font"
+bindsym $mod+m exec "rofi -modi drun,run -font JetBrainsMono Nerd Font Mono -show drun"
+bindsym $mod+n exec "rofi -modi drun,run -font JetBrainsMono Nerd Font Mono -show run"
+bindsym $mod+b exec "rofi -modi emoji -font JetBrainsMono Nerd Font Mono -show emoji"
 
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
