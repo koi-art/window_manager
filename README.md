@@ -24,6 +24,8 @@
 ##### intel-lpmd
 ##### elementary-xfce-icons-git
 ##### pikaur
+##### dmenu
+##### rofi
 
 ### Startup Application
 ##### gnome-polkit
