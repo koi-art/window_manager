@@ -26,6 +26,7 @@
 ##### pikaur
 ##### dmenu
 ##### rofi
+##### rofi-emoji
 
 ### Startup Application
 ##### gnome-polkit
