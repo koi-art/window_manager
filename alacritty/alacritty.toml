@@ -1,0 +1,36 @@
+[colors.primary]
+background = "#2b303b"
+foreground = "#ffffff"
+
+[font]
+size = 7.0
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "JetBrainsMono Nerd Font"
+style = "Bold Italic"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[window]
+padding = { x = 15, y = 15 }
+opacity = 1
+decorations = "None"
+title = "Alacritty"
+
+[cursor]
+blink_interval = 500
+blink_timeout = 0
+
+[cursor.style]
+shape = "Block"
+blinking = "Always"
